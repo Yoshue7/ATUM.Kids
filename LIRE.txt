@@ -1,0 +1,11 @@
+ATUM.Kids - Apprendre en s'Amusant
+Bienvenue jeune explorateur !
+Ici on apprend avec des jeux.
+
+Chaque mission est une aventure.
+Tu gagnes des étoiles et des badges.
+Les dieux égyptiens sont tes guides.
+
+Pour commencer : ouvre Questionnaire.txt
+Choisis ton premier défi.
+Amuse-toi bien !

@@ -1,0 +1,15 @@
+QUESTIONNAIRE THOT - Bienvenue !
+================================
+
+Salut jeune aventurier !
+
+Pour commencer ton aventure :
+python3 -m http.server 8080
+firefox http://localhost:8080/
+
+THOT le sage va te poser 3 questions :
+1. Quel âge as-tu ? (6-8 / 9-11 / 12-14)
+2. Qu'est-ce qui t'intéresse ? (Sciences/Langues/Maths)
+3. Tu préfères ? (Jouer seul/En équipe)
+
+Ensuite : ta première mission commence !
